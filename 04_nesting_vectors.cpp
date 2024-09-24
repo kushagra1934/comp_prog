@@ -39,3 +39,4 @@ int main() {
 // size: 2
 // 1 2 
 //as arrays are of fixed size, we then use vector of vectors
+//in array of vectors the numbers of rows is fixed whereas number of columns is variable
