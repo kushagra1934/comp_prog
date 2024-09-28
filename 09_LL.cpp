@@ -1,3 +1,5 @@
+//intro LL, traversing, length, printing LL, removal of element from head, tail, kth postion
+
 #include<bits/stdc++.h>
 using namespace std;
 struct Node{
@@ -135,6 +137,7 @@ int main(){
 
     // head=removehead(head);
     // head=removetail(head);
+    
     head=removekth(head,2);
     print(head);
 
